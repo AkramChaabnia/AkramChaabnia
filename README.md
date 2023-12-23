@@ -1,6 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akram CHAABNIA
 ======================================================================================================================================
 
+Software Engineering Student
+----------------------------
+
 * 🌍  I'm based in PARIS
 * ✉️  You can contact me at [akram.chaabnia25@gmail.com](mailto:akram.chaabnia25@gmail.com )
 * 🚀  I'm currently working on [finding the shortest path on a 2D map using Dijkstra and A\* algorithms](http://github.com/AkramChaabnia/2DShortestPath)
