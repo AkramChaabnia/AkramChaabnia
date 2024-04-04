@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student
 ----------------------------
 
-* 🌍  I'm based in PARIS
-* ✉️  You can contact me at [akram.chaabnia25@gmail.com](mailto:akram.chaabnia25@gmail.com )
-* 🚀  I'm currently working on [finding the shortest path on a 2D map using Dijkstra and A\* algorithms](http://github.com/AkramChaabnia/2DShortestPath)
-* ⚡  Im looking for an internship in software engineering
+* 🌍  I'm based in Paris.
+* ✉️  You can contact me at [akram.chaabnia25@gmail.com](mailto:akram.chaabnia25@gmail.com).
+* 🚀  I'm currently working on [designing and developing a web application that objectively measures pilots' mental workload using heart rate, integrating the Fitbit API with React and Django](https://github.com/AkramChaabnia/pilotpulse_api), in parallel with [a Python program using OpenCV to detect and classify coins](https://github.com/AkramChaabnia/CoinDetector).
+* ⚡  I'm looking for an internship in data fields.
 
 ### Skills
 
